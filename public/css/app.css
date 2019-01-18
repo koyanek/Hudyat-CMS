@@ -9025,7 +9025,7 @@ a.dropdown-item:hover,
 .dropdown .dropdown-menu .has-link a:hover,
 button.dropdown-item:hover {
   background-color: whitesmoke;
-  color: #0a0a0a;
+  color: #3273dc;
 }
 
 a.dropdown-item.is-active,
@@ -14673,7 +14673,7 @@ label.panel-block:hover {
 .autocomplete .dropdown .dropdown-menu .has-link a.is-hovered,
 .dropdown .dropdown-menu .has-link .autocomplete a.is-hovered {
   background: whitesmoke;
-  color: #0a0a0a;
+  color: #3273dc;
 }
 
 .autocomplete .dropdown-item.is-disabled,
